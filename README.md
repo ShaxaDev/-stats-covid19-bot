@@ -1,2 +1,2 @@
 # covid19
-pytelegrambotapi
+pytelegrambotapi yordamida yaratilgan bot statistika beradi
